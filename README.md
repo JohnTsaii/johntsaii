@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi 👋
+🌱 I'm currently leanring Rust relational things. for example [Tauri V2](https://github.com/tauri-apps/tauri)
+🔭 I have 10+ years experience iOS Developer
+🔭 I have some experience with devops 、 front-end 、iOS Reverse
+😄 I'm looking for remote job about open-source project
 <!--
 **JohnTsaii/johntsaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
